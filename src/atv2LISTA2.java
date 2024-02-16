@@ -19,7 +19,7 @@ public class atv2LISTA2 {
             }
         }
         System.out.println("O maior numero é " + maior);
-        System.out.println("fskjfas");
+        
 
         sc.close();
     }
