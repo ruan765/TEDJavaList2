@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "atv10LISTA2",
+            "request": "launch",
+            "mainClass": "atv10LISTA2",
+            "projectName": "aula_f4a9ae5b"
+        },
+        {
+            "type": "java",
+            "name": "atv1LISTA2",
+            "request": "launch",
+            "mainClass": "atv1LISTA2",
+            "projectName": "aula_f4a9ae5b"
+        },
+        {
+            "type": "java",
+            "name": "atv2LISTA2",
+            "request": "launch",
+            "mainClass": "atv2LISTA2",
+            "projectName": "aula_f4a9ae5b"
+        },
+        {
+            "type": "java",
+            "name": "atv3LISTA2",
+            "request": "launch",
+            "mainClass": "atv3LISTA2",
+            "projectName": "aula_f4a9ae5b"
+        },
+        {
+            "type": "java",
+            "name": "atv4LISTA2",
+            "request": "launch",
+            "mainClass": "atv4LISTA2",
+            "projectName": "aula_f4a9ae5b"
+        },
+        {
+            "type": "java",
+            "name": "atv5LISTA2",
+            "request": "launch",
+            "mainClass": "atv5LISTA2",
+            "projectName": "aula_f4a9ae5b"
+        },
+        {
+            "type": "java",
+            "name": "atv6LISTA2",
+            "request": "launch",
+            "mainClass": "atv6LISTA2",
+            "projectName": "aula_f4a9ae5b"
+        },
+        {
+            "type": "java",
+            "name": "atv7LISTA2",
+            "request": "launch",
+            "mainClass": "atv7LISTA2",
+            "projectName": "aula_f4a9ae5b"
+        },
+        {
+            "type": "java",
+            "name": "atv8LISTA2",
+            "request": "launch",
+            "mainClass": "atv8LISTA2",
+            "projectName": "aula_f4a9ae5b"
+        },
+        {
+            "type": "java",
+            "name": "atv9LISTA2",
+            "request": "launch",
+            "mainClass": "atv9LISTA2",
+            "projectName": "aula_f4a9ae5b"
+        }
+    ]
+}
